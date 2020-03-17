@@ -6,7 +6,9 @@ this is a new edit
 Adding descritpion
 
 ## Purpose
+Adding purpose
 
 ## Deployment
+This is deplo section
 
 Sample website with plenty of files for demos
