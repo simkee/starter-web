@@ -16,4 +16,4 @@ Please fork
 Sample website with plenty of files for demos
 
 ##Copyright
-Copyright toto
+Copyright toto All rights reserved
