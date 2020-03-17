@@ -2,6 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 this is a new edit
+
+Adding descritpion
+
 ## Purpose
 
 ## Deployment
