@@ -12,3 +12,6 @@ Adding purpose
 This is deplo section
 
 Sample website with plenty of files for demos
+
+##Copyright
+Copyright toto
